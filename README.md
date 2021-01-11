@@ -1,2 +1,2 @@
 # hello-world
-Learning about github
+Learning about github.  Trying to improve my C# coding.
